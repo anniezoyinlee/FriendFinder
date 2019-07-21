@@ -1,0 +1,33 @@
+/* All HTML */
+html {
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: 'Martel Sans', sans-serif;
+}
+
+/* Home Page */
+.homepage {
+    font-size: 1.2em;
+    background-color: rgb(98, 153, 199);
+    width: 600px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+h2 {
+    margin: 10px;
+    color: white;
+}
+
+.gotosurveybtn {
+    background-color: rgb(67, 79, 185);
+    border: solid 2px white;
+}
+
+/* Survey Page */
+h4 {
+    margin: 10px 0 5px 0;
+}
+.question {
+    margin: 15px 0 10px 0; 
+}
